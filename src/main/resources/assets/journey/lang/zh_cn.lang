@@ -145,25 +145,25 @@ world.journey.frozen_lands=冻原
 world.journey.terrania=特莱妮雅
 world.journey.senterian=赛特瑞安
 
-scroll.journey.sentry_gospel=We never saw it, but we know it - the Divine land Corba was birthed by the o' powerful Rock and Eye. Never forget the day, the hour, the second he - The True One - the all powerful Rock and Eye - cometh unto the great world he created, to seek his revenge on the wrong-doers who dare disrespect his land.
+scroll.journey.sentry_gospel=我们从未看到过它，但我们知道它 - 圣地科尔巴由强大的岩石与眼睛创造。永远不要忘记那一天，那一小时，那一秒他 - 天选之子 - 全部强大的岩石与眼睛 - 来到他创造的伟大世界，以向那些胆敢亵渎他土地的恶人报仇。
 
-scroll.journey.chap1.my_last_words=I have to make this quick Clancy... I'm not sure how much time I have left... I'm not sure how much time our reality has left. These horrid machines... they're evil. They've pioneered an art form of killing. These Sentries... I'm certain they will destroy reality as we know it if they become too powerful. They - I think they've found me... I hope this reaches you. Please take all of the other contents of my Ender Chest I've left you. They're yours now. Goodbye, my friend.
+scroll.journey.chap1.my_last_words=我必须搞快点，克兰西...我不确定我还剩多少时间...我不确定我们的现实世界还剩多少时间...这些恐怖的机械...他们是魔鬼。他们从杀戮中创造了一门艺术。这些哨兵...我肯定它们如果变得太强大就会会摧毁我们所知的现实世界。它们 - 我想它们会找到我...我希望这张纸能到你手上。请带走我末影箱里所有其他的我留给你的东西。它们现在是你的了。再见，我的朋友。
 
-scroll.journey.chapter.one=Chapter 1
-scroll.journey.chapter.two=Chapter 2
-scroll.journey.chapter.three=Chapter 3
-scroll.journey.chapter.four=Chapter 4
-scroll.journey.chapter.five=Chapter 5
-scroll.journey.chapter.six=Chapter 6
-scroll.journey.chapter.seven=Chapter 7
-scroll.journey.chapter.eight=Chapter 8
-scroll.journey.chapter.nine=Chapter 9
-scroll.journey.chapter.ten=Chapter 10
+scroll.journey.chapter.one=第一章
+scroll.journey.chapter.two=第二章
+scroll.journey.chapter.three=第三章
+scroll.journey.chapter.four=第四章
+scroll.journey.chapter.five=第五章
+scroll.journey.chapter.six=第六章
+scroll.journey.chapter.seven=第七章
+scroll.journey.chapter.eight=第八章
+scroll.journey.chapter.nine=第九章
+scroll.journey.chapter.ten=第十章
 
-loading.journey.frozen=Traveling To The Frozen Lands
-loading.journey.boil=Voyaging To The Boiling Point
-loading.journey.euca=Ascending To Euca
-loading.journey.depths=Falling To The Depths
+loading.journey.frozen=往冻原旅行中
+loading.journey.boil=往沸点航行中
+loading.journey.euca=往尤卡攀登中
+loading.journey.depths=往深渊坠落中
 loading.journey.corba=Untangling Corba
 loading.journey.terrania=Enchanting Terrania
 loading.journey.cloudia=Fluffing Cloudia
